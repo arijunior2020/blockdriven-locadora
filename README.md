@@ -9,6 +9,9 @@ O objetivo é projetar o modelo de dados da **última locadora de DVDs do mundo*
 
 ![Modelo ER](./Driagrama%20BlockDriven%20Locadora%20-%20DrawSQL.png)
 
+
+👉 [Visualizar no DrawSQL](https://drawsql.app/teams/jr-techonologia/diagrams/blockdriven-locadora-2)
+
 ---
 
 ## 🐘 Script SQL
