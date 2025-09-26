@@ -7,12 +7,9 @@ O objetivo é projetar o modelo de dados da **última locadora de DVDs do mundo*
 
 ## 📊 Diagrama do Banco de Dados
 
-![Modelo ER](./Driagrama%20BlockDriven%20Locadora%20-%20DrawSQL.png)
+![Modelo ER](./blockdriven-locadora-image.png)
 
-
-👉 [Visualizar no DrawSQL](https://drawsql.app/teams/jr-techonologia/diagrams/blockdriven-locadora-2)
-
----
+O diagrama acima representa o modelo entidade-relacionamento (ER) do banco de dados da locadora, incluindo todas as entidades, atributos e relacionamentos necessários para atender aos requisitos do sistema.
 
 ## 🐘 Script SQL
 
