@@ -7,7 +7,7 @@ O objetivo é projetar o modelo de dados da **última locadora de DVDs do mundo*
 
 ## 📊 Diagrama do Banco de Dados
 
-![Modelo ER](./blockdriven-locadora-image.png)
+![Modelo ER](/blockdriven-locadora/blockdriven-locadora-image.png)
 
 O diagrama acima representa o modelo entidade-relacionamento (ER) do banco de dados da locadora, incluindo todas as entidades, atributos e relacionamentos necessários para atender aos requisitos do sistema.
 
