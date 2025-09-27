@@ -27,7 +27,7 @@ O arquivo [`blockdriven-locadora.sql`](./blockdriven-locadora.sql) contém todas
 ## 🎥 Vídeo Explicativo
 
 Apresentação em até 5 minutos explicando o modelo e as decisões de projeto:  
-👉 [Assista ao vídeo aqui](COLE_O_LINK_DO_SEU_VIDEO_AQUI)
+👉 [Assista ao vídeo aqui](https://www.loom.com/share/53f28fd96e65490ba373409433a50fde?sid=e61932f7-caf4-4d78-be5b-d9e14de86b07)
 
 ---
 
